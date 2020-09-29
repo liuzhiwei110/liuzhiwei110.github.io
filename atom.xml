@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://liuzhiwei110.github.io</id>
+    <title>周星星爱仙蒂</title>
+    <updated>2020-09-29T01:24:25.880Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://liuzhiwei110.github.io"/>
+    <link rel="self" href="https://liuzhiwei110.github.io/atom.xml"/>
+    <subtitle>理想是做个有趣且优雅的人</subtitle>
+    <logo>https://liuzhiwei110.github.io/images/avatar.png</logo>
+    <icon>https://liuzhiwei110.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 周星星爱仙蒂</rights>
+</feed>
